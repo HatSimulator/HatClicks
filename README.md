@@ -1,0 +1,2 @@
+# HatClicks
+A clicker game
